@@ -1,0 +1,80 @@
+{
+ "busardo": {
+  "w": 760,
+  "h": 768,
+  "fichero": "Buteo galapagoensis.jpg",
+  "licencia": "Public domain"
+ },
+ "scandens": {
+  "w": 664,
+  "h": 1000,
+  "fichero": "Cactornis scandens1.jpg",
+  "licencia": "Public domain"
+ },
+ "psittacula": {
+  "w": 688,
+  "h": 1000,
+  "fichero": "Camarhynchus psittaculus1.jpg",
+  "licencia": "Public domain"
+ },
+ "lobo": {
+  "w": 760,
+  "h": 528,
+  "fichero": "Falklandwolf Dusicyon culpaeus.jpg",
+  "licencia": "Public domain"
+ },
+ "rata": {
+  "w": 760,
+  "h": 461,
+  "fichero": "Galapagos Rice-Rat.jpg",
+  "licencia": "Public domain"
+ },
+ "magnirostris": {
+  "w": 711,
+  "h": 1000,
+  "fichero": "Geospiza magnirostris.jpg",
+  "licencia": "Public domain"
+ },
+ "parvula": {
+  "w": 732,
+  "h": 1000,
+  "fichero": "Geospiza parvula.jpg",
+  "licencia": "Public domain"
+ },
+ "melanotis": {
+  "w": 735,
+  "h": 1000,
+  "fichero": "Mimus melanotis.jpg",
+  "licencia": "Public domain"
+ },
+ "parvulus": {
+  "w": 760,
+  "h": 974,
+  "fichero": "Mimus parvulus.jpg",
+  "licencia": "Public domain"
+ },
+ "trifasciatus": {
+  "w": 760,
+  "h": 1000,
+  "fichero": "Mimus trifasciatus.jpg",
+  "licencia": "Public domain"
+ },
+ "gorrion": {
+  "w": 715,
+  "h": 1000,
+  "fichero": "PasserIagoensis.jpg",
+  "licencia": "Public domain"
+ },
+ "nandu": {
+  "w": 714,
+  "h": 1000,
+  "fichero": "The zoology of the voyage of H.M.S. Beagle (Birds Pl. 47) (8429532695).jpg",
+  "licencia": "Public domain"
+ },
+ "toxodon": {
+  "w": 630,
+  "h": 1000,
+  "fichero": "Toxodon-Schaedel.jpg",
+  "licencia": "Public domain"
+ }
+}
